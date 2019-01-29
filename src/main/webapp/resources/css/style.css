@@ -1,0 +1,22 @@
+html {
+	height: 100%;
+}
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font: 400 15px/1.8 Lato, sans-serif;
+    color: #777;
+}
+#map-canvas {
+	height: 100%;
+}
+#iw_container .iw_title {
+	font-size: 16px;
+	font-weight: bold;
+}
+.iw_content {
+	padding: 15px 15px 15px 0;
+}
+
+
